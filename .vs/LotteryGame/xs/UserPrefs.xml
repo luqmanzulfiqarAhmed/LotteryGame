@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E1C5F98E-4E03-4523-AAF0-AFADF5E4FF36}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LotteryGame/Program.cs">
+    <Files>
+      <File FileName="LotteryGame/Program.cs" Line="10" Column="53" />
+      <File FileName="LotteryGame/Models/Player.cs" Line="4" Column="1" />
+      <File FileName="LotteryGame/Models/Ticket.cs" />
+      <File FileName="LotteryGame/DTOs/GameResult.cs" Line="11" Column="1" />
+      <File FileName="LotteryGame/DTOs/PlayerResult.cs" Line="1" Column="1" />
+      <File FileName="LotteryGame/DTOs/Prize.cs" />
+      <File FileName="LotteryGame/Services/GameService.cs" Line="132" Column="79" />
+      <File FileName="LotteryGame/Services/PlayerService.cs" Line="144" Column="1" />
+      <File FileName="LotteryGameTest/UnitTest1.cs" Line="17" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LotteryGame" expanded="True">
+            <Node name="LotteryGame" expanded="True">
+              <Node name="DTOs" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LotteryGame" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LotteryGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

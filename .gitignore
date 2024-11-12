@@ -1,0 +1,17 @@
+﻿# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.json
+
+# Logs
+*.log
+logs/
+
+# Visual Studio specific
+.vscode/
+.idea/
+.DS_Store
